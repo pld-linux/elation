@@ -1,5 +1,5 @@
 Summary:	DVR-like media player
-Summary(pl):	Odtwarzacz multimedialny w stylu DVR
+Summary(pl.UTF-8):   Odtwarzacz multimedialny w stylu DVR
 Name:		elation
 Version:	0.0.1.001
 %define	_snap	20050701
@@ -21,7 +21,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Elation is a DVR-like media player.
 
-%description -l pl
+%description -l pl.UTF-8
 Elation to odtwarzacz multimedialny w stylu DVR.
 
 %prep
